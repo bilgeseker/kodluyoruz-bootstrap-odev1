@@ -1,0 +1,44 @@
+body{
+    background-color: #E9ECEF;
+    text-align: center;
+}
+.card,
+.card-header{
+    background-color: #E9ECEF;
+    border-style: none;
+}
+.card-text
+{
+    text-align: left;
+}
+
+.card-title{
+    color: blueviolet;
+    font-size: 55px;
+    font-weight: 300;
+}
+.card-bc{
+    background-color: #dbe0e5;
+    border-style: dashed;
+    padding: 3px 3px 0 3px;
+    height: 450px;
+    margin-top: 30px;
+}
+
+.card-bc:hover{
+    box-shadow: 0 2px 10px rgb(28, 27, 14);
+}
+
+.price{
+    color: black;
+    font-size: 23px;
+    background-color:#E9ECEF;
+    border-radius: 50%;
+}
+
+h4,h3{
+    color: rgb(186, 170, 48);
+}
+ul{
+    display: inline-block;
+}
